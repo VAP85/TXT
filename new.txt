@@ -1,0 +1,6 @@
+personal data
+	firstname: nastassia
+	lastname:voronenko
+	age:36
+	pets:none
+	salary:1500
