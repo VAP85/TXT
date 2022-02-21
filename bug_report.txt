@@ -1,1 +1,4 @@
-
+bug_report_fields:
+  bug_description:wrong preview
+  priotity:high
+  severity:low
